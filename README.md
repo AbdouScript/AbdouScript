@@ -1,7 +1,11 @@
 👋 Hi, I'm @AbdouScript
-👀 I am interested in development 
+
+👀 I am interested in development
+
 🌱 I am currently learning JavaScript
+
 💞️ I'm looking to supplement my development skills
+
 📫 Contact me by email: abdoukichenama@gmail.com
 
 <!---
